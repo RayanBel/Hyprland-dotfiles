@@ -55,3 +55,4 @@ En caso de requerir de más información, he aquí una lista de enlaces de inter
 - [Hyprland wiki](https://wiki.hyprland.org/)
 - [Compatibilidades con Wayland](https://wearewaylandnow.com/)
 - [Página de la Arch Wiki de Hyprland](https://wiki.archlinux.org/title/Hyprland)
+- [Cómo hacer capturas de pantalla](https://wiki.hyprland.org/FAQ/#how-do-i-screenshot)
