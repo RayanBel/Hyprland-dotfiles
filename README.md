@@ -31,3 +31,27 @@ Otras opciones más interesantes serían vincular el repositorio local con la ca
 ```bash
 ln *.conf ~/.config/hypr
 ```
+
+## Ejecución
+
+Para finalizar, ejecutamos Hyprland con la configuración nueva.
+```bash
+hyprland
+```
+En caso de que ya se esté ejecutando, podemos actualizarlo así:
+```bash
+hyprctl reload
+```
+En caso de únicamente querer ver la configuración sin instalarla, podemos especificarle que la use así:
+```bash
+hyprland -c hyprland.conf
+```
+> [!IMPORTANT]
+> Se presupone en todo momento que estamos en el directorio del repositorio. Se ha de ejecutar este último comando desde ahí o cambiando la dirección hacia dónde está la configuración.
+
+## Documentación
+En caso de requerir de más información, he aquí una lista de enlaces de interes:
+
+- [Hyprland wiki](https://wiki.hyprland.org/)
+- [Compatibilidades con Wayland](https://wearewaylandnow.com/)
+- [Página de la Arch Wiki de Hyprland](https://wiki.archlinux.org/title/Hyprland)
